@@ -1,3 +1,7 @@
+"""
+キーボードで蛇を操作するプログラム
+"""
+
 from math import cos, sin, acos, asin, atan, pi
 import numpy as np
 
